@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo42_use_frameworks_error_demo",
+    "slug": "expo42_use_frameworks_error_demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo42_use_frameworks_error_demo"
+}
